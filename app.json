@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "primeiro-bare",
+    "slug": "primeiro-bare",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
